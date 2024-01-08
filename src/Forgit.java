@@ -5,5 +5,7 @@ public class Forgit {
 
         System.out.println("Hello Salim Bobo. how are you?");
         System.out.println("NOno");
+        System.out.println("Assalomu alaykum, Muammadjon!");
+        System.out.println("So far so good, what about you?");
     }
 }
